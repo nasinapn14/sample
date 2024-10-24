@@ -10,3 +10,6 @@ git add . >>>>>> add the file to the staging alternatives(file is being tracked 
 git commit -m "message of what is changing"    >>>> to committ the changes in the tracked file
 
 git push origin main   >>>>> pushing the file to the main branch in Github repository
+
+
+modified
